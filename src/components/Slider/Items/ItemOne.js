@@ -6,7 +6,7 @@ const ItemOne = () => {
 <div className="hero-slide-item swiper-slide">
                 
 <div className="hero-slide-bg">
-    <img src="assets/images/slider/slide-1.png" alt="Slider Image" />
+    <img src="assets/images/slider/slide-1.png" alt="Slider" />
 </div>
 
 
